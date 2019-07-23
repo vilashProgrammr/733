@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const tslib_1 = require("tslib");
+var constants_1 = require("./constants");
+exports.xliffmergeVersion = constants_1.xliffmergeVersion;
+exports.xliffmergePackage = constants_1.xliffmergePackage;
+exports.defaultI18nFormat = constants_1.defaultI18nFormat;
+exports.defaultI18nLocale = constants_1.defaultI18nLocale;
+exports.extractScriptName = constants_1.extractScriptName;
+exports.xliffmergeBuilderName = constants_1.xliffmergeBuilderName;
+exports.xliffmergeBuilderSpec = constants_1.xliffmergeBuilderSpec;
+var common_functions_1 = require("./common-functions");
+exports.isValidLanguageSyntax = common_functions_1.isValidLanguageSyntax;
+exports.buildConfigurationForLanguage = common_functions_1.buildConfigurationForLanguage;
+exports.serveConfigurationForLanguage = common_functions_1.serveConfigurationForLanguage;
+exports.addXliffmergeDependencyToPackageJson = common_functions_1.addXliffmergeDependencyToPackageJson;
+tslib_1.__exportStar(require("./options-after-setup"), exports);
+tslib_1.__exportStar(require("./workspace-snapshot"), exports);
+tslib_1.__exportStar(require("./package-json-snapshot"), exports);
+//# sourceMappingURL=index.js.map

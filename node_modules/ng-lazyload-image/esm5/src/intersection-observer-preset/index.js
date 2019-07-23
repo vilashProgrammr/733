@@ -1,0 +1,7 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { intersectionObserverPreset } from './preset';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9uZy1sYXp5bG9hZC1pbWFnZS8iLCJzb3VyY2VzIjpbInNyYy9pbnRlcnNlY3Rpb24tb2JzZXJ2ZXItcHJlc2V0L2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxPQUFPLEVBQUUsMEJBQTBCLEVBQUUsTUFBTSxVQUFVLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgeyBpbnRlcnNlY3Rpb25PYnNlcnZlclByZXNldCB9IGZyb20gJy4vcHJlc2V0J1xuIl19
